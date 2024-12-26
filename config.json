@@ -1,0 +1,8 @@
+{
+    "max_connection": 1,
+    "city": "Санкт-Петербург",
+    "address_tt": "Заневский пр-т., д 67к2",
+    "categories": "dogs,cats,vetapteka,birds,akvariumistika,rodents,dlya-vladeltsev",
+    "proxies": ["localhost"],
+    "chromedriver_path": "E:\\Загрузки\\Плагины\\Chrome-bin\\131.0.6778.205\\chromedriver.exe"
+}
